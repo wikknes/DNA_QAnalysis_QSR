@@ -7,7 +7,7 @@ pip install pennylane --upgrade
 Execute the script in your Python environment.
 
 Input Genome Sequences:
-When prompted, manually input the first and second genome sequences to compare.
+When prompted, manually input the first and second genome sequences to compare(8 nucleotides).
 
 View the Output:
 The program will compute and display the similarity score between the two sequences.
